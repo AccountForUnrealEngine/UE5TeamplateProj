@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{AF1DDC53-2043-33A6-9A3F-D18E7ABC23A7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TemplateProj",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
